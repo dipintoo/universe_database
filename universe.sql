@@ -64,7 +64,7 @@ INSERT INTO galaxy (galaxy_name, constellation, description, interesting_fact) V
   ('Bode’s Galaxy', 'Ursa Major', 'Named after the astronomer who discovered it, Johann Elert Bode.', 'M81 is a grand design spiral galaxy.');
 
 -- Input Star
-INSERT INTO star (name, distance_to_earth, galaxy_id, habitable) VALUES
+INSERT INTO star (star_name, distance_to_earth, galaxy_id, habitable) VALUES
   ('Sun', '1 AU (approximately 149.6 million km)', 4, false),
   ('Proxima Centauri', 'Approximately 0.0485 light-years', 4, true),
   ('Gliese 581', 'Approximately 20.3 light-years', 4, true),
@@ -77,7 +77,7 @@ INSERT INTO star (name, distance_to_earth, galaxy_id, habitable) VALUES
   ('LHS 1140', 'Approximately 40 light-years', 4, true);
 
 -- Input Planet
-INSERT INTO planet (name, has_satellite, revolution_days, planet_category, diameter_km, atmosphere_content, star_id) VALUES
+INSERT INTO planet (planet_name, has_satellite, revolution_days, planet_category, diameter_km, atmosphere_content, star_id) VALUES
   ('Earth', true, NULL, 'Terrestrial', 12742, 'Nitrogen, Oxygen', 1),
   ('Mars', true, 687, 'Terrestrial', 6779, 'Carbon Dioxide', 1),
   ('Jupiter', true, 4333, 'Gas Giant', 139820, 'Hydrogen, Helium', 1),
