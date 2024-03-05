@@ -93,7 +93,7 @@ INSERT INTO planet (planet_name, has_satellite, revolution_days, planet_category
   ('Ceres', true, 1681, 'Dwarf Planet', 590, 'Water Vapor', 1);
 
   -- Input Visibility
-INSERT INTO planet_visibility (planet_id, planet_name, apparent_magnitude, visibility, colors)VALUES
+INSERT INTO planet_visibility (planet_id, planet_name, apparent_magnitude, visibility, colors) VALUES
   (12, 'Venus', -5, 'Early Morning/Evening', 'Light Yellow and White'),
   (2,'Mars', -3, 'Early Morning/Evening','Red, Brown, and Orange'),
   (3,'Jupiter', -3, 'Early Morning/Evening', 'Stripes of Light Orange, White, Brown, and Dark Orange'),
