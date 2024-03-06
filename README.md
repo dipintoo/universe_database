@@ -2,20 +2,13 @@
 
 ## Goals
 
-Membangun database benda langit menggunakan PostgreSQL dan mencari hubungan diantara benda langit tersebut misalnya Misalnya: sistem planet dengan bintang utama untuk menghubungkan tabel 'planet' dan 'bintang' - atau planet dengan satelit untuk menghubungkan tabel 'planet' dan 'bulan'.
+Membangun database benda - benda langit menggunakan PostgreSQL serta menerapkan konsep relational database untuk mendapatkan informasi menarik dan bermanfaat.
 
-Membuat basis data:
-Benda langit utama yang digunakan: Galaksi, Bintang, Planet, dan Bulan.
+Data didapatkan melalui riset di situs-situs astronomi seperti [littleastronomy.com](https://littleastronomy.com/) dan [lumenlearning.com](https://courses.lumenlearning.com/suny-astronomy/) untuk mencari variabel utama yang harus dilacak untuk setiap benda langit.
 
-Buatlah tabel untuk masing-masing benda langit tersebut, ditambah tabel tambahan dengan jenis planet yang berbeda dan deskripsinya.
+## Alur Kerja
 
-Riset:
-Tujuan Penelitian: Menemukan benda langit yang dapat dikaitkan dengan benda langit lainnya. Misalnya: sistem planet dengan bintang utama untuk menghubungkan tabel 'planet' dan 'bintang' - atau planet dengan satelit untuk menghubungkan tabel 'planet' dan 'bulan'.
-
-Menelusuri Wikipedia dan situs web yang berkaitan dengan astrologi dan benda langit untuk mencari variabel utama yang harus dilacak untuk setiap benda langit.
-Memutuskan untuk tetap berpegang pada nilai-nilai seperti radius rata-rata, jarak dalam tahun cahaya, dan periode orbit dengan tujuan membuat database sampel sederhana.
-Karena jarak atau kurangnya informasi dari beberapa benda langit, terdapat contoh nilai NULL, dan beberapa nilai dibulatkan menjadi 2 atau 3 tempat desimal.
-🌟 Hubungan dibangun | Galaksi > Bintang > Planet > Bulan.
-
-Diagram Basis Data Relasional
-Dibuat dengan mereplikasi database pada Microsoft SQL Server Management Server
+1. Membuat Database [universe](https://github.com/dipintoo/universe_database/blob/main/universe.sql) yang terdiri dari tabel - tabel `galaxy`, `star`, `planet`, `planet_visibility` dan `moon`
+2. Mendesain database sedemikian rupa agar tabel - tabelnya memiliki hubungan satu sama lain sesuai dengan fakta yang ada
+3. Memilih tipe data yang cocok dengan informasi yang diperoleh dari hasil riset
+4. Menarik informasi dan menganalisis data dari database [seperti contoh berikut ini](https://github.com/dipintoo/universe_database/blob/main/analysis_queries.sql). 
