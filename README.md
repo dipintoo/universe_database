@@ -14,4 +14,8 @@ Data didapatkan melalui riset di situs-situs astronomi seperti [littleastronomy.
 2. Mendesain database sedemikian rupa agar tabel - tabelnya memiliki hubungan satu sama lain sesuai dengan fakta yang sebenarnya
 3. Memilih tipe data yang cocok dengan informasi yang diperoleh dari hasil riset
 4. Menginput data yang diperlukan ke tabel - tabel yang sudah disiapkan
-5. Menarik informasi dan menganalisis data dari database [seperti contoh berikut ini](https://github.com/dipintoo/universe_database/blob/main/analysis_queries.sql). 
+5. Menarik informasi dan menganalisis data dari database [seperti contoh berikut ini](https://github.com/dipintoo/universe_database/blob/main/analysis_queries.sql).
+
+
+  
+[**_Next Project - Aplikasi Booking Salon >>_**](https://github.com/dipintoo/salon_database)
