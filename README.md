@@ -18,4 +18,4 @@ Data didapatkan melalui riset di situs-situs astronomi seperti [littleastronomy.
 
 
   
-[**_Next Project - Aplikasi Booking Salon >>_**](https://github.com/dipintoo/salon_database)
+[**_Next Project - Aplikasi Booking Salon >>_**](https://github.com/dipintoo/worldcup_database)
