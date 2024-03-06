@@ -1,10 +1,12 @@
-![Cover]()
+![Cover](https://github.com/dipintoo/universe_database/blob/main/img/Cover_1.jpg)
 
 ## Goals
 
 Membangun database benda - benda langit menggunakan PostgreSQL serta menerapkan konsep relational database untuk mendapatkan informasi menarik dan bermanfaat.
 
 Data didapatkan melalui riset di situs-situs astronomi seperti [littleastronomy.com](https://littleastronomy.com/) dan [lumenlearning.com](https://courses.lumenlearning.com/suny-astronomy/) untuk mencari variabel - variabel penting serta hubungan antara benda - benda langit tersebut.
+
+![Cover](https://github.com/dipintoo/universe_database/blob/main/img/Database%20Design.png)
 
 ## Alur Kerja
 
