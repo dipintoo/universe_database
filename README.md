@@ -2,7 +2,7 @@
 
 ## Goals
 
-Membangun database benda - benda langit menggunakan PostgreSQL serta menerapkan konsep relational database untuk mendapatkan informasi menarik dan bermanfaat.
+Membuat database benda - benda langit menggunakan PostgreSQL serta menerapkan konsep relational database untuk mendapatkan informasi menarik dan bermanfaat.
 
 Data didapatkan melalui riset di situs-situs astronomi seperti [littleastronomy.com](https://littleastronomy.com/category/astronomy/) dan [lumenlearning.com](https://courses.lumenlearning.com/suny-astronomy/) untuk mencari variabel - variabel penting serta hubungan antara benda - benda langit tersebut.
 
@@ -18,11 +18,11 @@ Data didapatkan melalui riset di situs-situs astronomi seperti [littleastronomy.
 
 ## Sumber
 
-freeCodeCamp. (2024). Relational Database. Diakses dari [https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database]  
+freeCodeCamp. (2024). Relational Database. Diakses dari https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database 
 
-Little Astronomy. (2024). Astronomy. Diakses dari [https://littleastronomy.com/category/astronomy/]  
+Little Astronomy. (2024). Astronomy. Diakses dari https://littleastronomy.com/category/astronomy/ 
 
-Lumen Learning. (2024). Astronomy. Diakses dari [https://courses.lumenlearning.com/suny-astronomy/]  
+Lumen Learning. (2024). Astronomy. Diakses dari https://courses.lumenlearning.com/suny-astronomy/  
 
 
 
